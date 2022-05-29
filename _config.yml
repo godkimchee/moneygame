@@ -77,7 +77,7 @@ plugins:
 # Site Information Settings
 # ---------------------------------------------------------------
 
-favicon: "//pinedance.github.io/blog/assets/favicon.png"
+favicon: "//godkimchee.github.io/public/img/favicon.png"
 
 # Set default keywords (Use a comma to separate)
 keywords: "돈, 경제, 투자, 경제적 자유, 퀀트, money, economy, finance"
