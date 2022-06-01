@@ -14,4 +14,4 @@ Thumbs.db
 .rvmrc
 /vendor
 
-Gemfile.lock
+*:Zone.Identifier
