@@ -1,6 +1,7 @@
 ---
 layout: post
 title:  "야후 금융 yahoo finance"
+description: "세계 증시에 대한 종합 정보를 열람할 수 있는 야후 금융"
 categories: [사이트]
 tags: [사이트, yahoo, 야후, 정보, 국외]
 ---
