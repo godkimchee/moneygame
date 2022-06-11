@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "황금나비 포트폴리오 02：응용"
-description: "황금나비 포트폴리오, AOA 시리즈로 구현하기"
+description: "황금나비 포트폴리오를 AOA AOR AOM AOK 시리즈로 구현한다면"
 categories: [투자전략]
 tags: [황금나비, 포트폴리오, 자산배분, 정적자산배분]
 ---

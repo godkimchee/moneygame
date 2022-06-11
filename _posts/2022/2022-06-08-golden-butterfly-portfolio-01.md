@@ -77,6 +77,6 @@ MDD는 충분히 만족스럽지만 CAGR이 6.95%로 조금 불만스럽다. 조
 | 최종  | 9.55%  | -6.68% |
 
 
-REF
+## REF
 
 [게으른 퀀트 / 황금나비 포트폴리오](https://lazyquant.xyz/docs/detail/%EC%9E%90%EC%82%B0%EB%B0%B0%EB%B6%84/12)
