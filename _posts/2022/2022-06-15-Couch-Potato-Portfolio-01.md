@@ -24,14 +24,14 @@ CP는 단 2가지 자산으로 구성된 자산 배분 방법이다. 시장 전�
 
 CP는 매우 단순한 포트폴리오지만 무시할 수 없는 성과를 보여준다. SPY와 TIP를 백테스트 했을 때(2004-2022) 다음과 같은 성과를 보였다. 방법은 매우 단순하지만 다른 정적자산분배 전략과 비교했을 때 손색이 없는 성과이다. 
 
-| 전략 | CARG  | MDD  | 백테스트 |
+| 전략 │ CARG  | MDD  | 백테스트 |
 |:---:|:-----:|:----:|:-----------:|
 | SPY+TIP  | 7.08% | -27.06% | [백테스트](https://www.portfoliovisualizer.com/backtest-portfolio?s=y&timePeriod=4&startYear=1985&firstMonth=1&endYear=2022&lastMonth=12&calendarAligned=true&includeYTD=false&initialAmount=10000&annualOperation=0&annualAdjustment=0&inflationAdjusted=true&annualPercentage=0.0&frequency=4&rebalanceType=1&absoluteDeviation=5.0&relativeDeviation=25.0&leverageType=0&leverageRatio=0.0&debtAmount=0&debtInterest=0.0&maintenanceMargin=25.0&leveragedBenchmark=false&reinvestDividends=true&showYield=false&showFactors=false&factorModel=3&benchmark=-1&benchmarkSymbol=SPY&portfolioNames=false&portfolioName1=Portfolio+1&portfolioName2=Portfolio+2&portfolioName3=Portfolio+3&symbol1=SPY&allocation1_1=50&symbol2=TIP&allocation2_1=50) |
 | SPY  | 9.47% | -50.80% | 상동 |
 
 자산배분의 기본은 주식과 채권이므로 CP의 자산배분 전략은 기본에 매우 충실한 전략이라고 할 수 있다. 덧붙이자면 백테스트 수치 면에서는 TIP 대신 단기채권(SHY)를 적용했을 때는 성과가 좋지 않았고 장기채권(TLT)을 선택했을 때는 더 성과가 좋았다. 장기채권의 경우에는 다른 복잡한 포트폴리오와 비교했을 때 MDD는 조금 컸지만 CARG 측면에서는 뒤지지 않는 수치였다. 
 
-| 전략 | CARG  | MDD  | 백테스트 |
+| 전략 │ CARG  | MDD  | 백테스트 |
 |:---:|:-----:|:----:|:-----------:|
 | SPY+TIP  | 7.08% | -27.06% | [백테스트](https://www.portfoliovisualizer.com/backtest-portfolio?s=y&timePeriod=4&startYear=1985&firstMonth=1&endYear=2022&lastMonth=12&calendarAligned=true&includeYTD=false&initialAmount=10000&annualOperation=0&annualAdjustment=0&inflationAdjusted=true&annualPercentage=0.0&frequency=4&rebalanceType=1&absoluteDeviation=5.0&relativeDeviation=25.0&leverageType=0&leverageRatio=0.0&debtAmount=0&debtInterest=0.0&maintenanceMargin=25.0&leveragedBenchmark=false&reinvestDividends=true&showYield=false&showFactors=false&factorModel=3&benchmark=-1&benchmarkSymbol=SPY&portfolioNames=false&portfolioName1=Portfolio+1&portfolioName2=Portfolio+2&portfolioName3=Portfolio+3&symbol1=SPY&allocation1_1=50&allocation1_2=50&allocation1_3=50&symbol2=TIP&allocation2_1=50&symbol3=TLT&allocation3_2=50&symbol4=SHY&allocation4_3=50) |
 | SPY+TLT  | 8.12% | -18.17% | 상동 |
@@ -40,7 +40,7 @@ CP는 매우 단순한 포트폴리오지만 무시할 수 없는 성과를 보�
 
 CP에서 비중을 조금 조정하여 주식 60%, 채권 40%의 조합을 살펴보자. 이는 미국에서 자산 분배의 기준처럼 여겨지는 비율이다. 당연하게도 CARG 측면에서 다소 이점이 있었으나 MDD가 하락하는 결과를 나타냈다. 
 
-| 전략 | CARG  | MDD  | 백테스트 |
+| 전략 │ CARG  | MDD  | 백테스트 |
 |:---:|:-----:|:----:|:-----------:|
 | SPY+TIP  | 7.62% | -32.16% | [백테스트](https://www.portfoliovisualizer.com/backtest-portfolio?s=y&timePeriod=4&startYear=1985&firstMonth=1&endYear=2022&lastMonth=12&calendarAligned=true&includeYTD=false&initialAmount=10000&annualOperation=0&annualAdjustment=0&inflationAdjusted=true&annualPercentage=0.0&frequency=4&rebalanceType=1&absoluteDeviation=5.0&relativeDeviation=25.0&leverageType=0&leverageRatio=0.0&debtAmount=0&debtInterest=0.0&maintenanceMargin=25.0&leveragedBenchmark=false&reinvestDividends=true&showYield=false&showFactors=false&factorModel=3&benchmark=-1&benchmarkSymbol=SPY&portfolioNames=false&portfolioName1=Portfolio+1&portfolioName2=Portfolio+2&portfolioName3=Portfolio+3&symbol1=SPY&allocation1_1=60&allocation1_2=60&allocation1_3=60&symbol2=TIP&allocation2_1=40&symbol3=TLT&allocation3_2=40&symbol4=SHY&allocation4_3=40) |
 | SPY+TLT  | 8.55% | -24.64% | 상동 |
@@ -49,7 +49,7 @@ CP에서 비중을 조금 조정하여 주식 60%, 채권 40%의 조합을 살�
 
 여기까지 살펴보았다면 AOR이 떠오를 것이다. 주식과 채권에 6:4로 투자해 주는 대표적인 자산배분 ETF이다. 데이터 문제로 백테스트 기간이 위와 다르지만, 결과는 아래와 같다. (2008-2022) 흥미롭게도 이 기간에는 장기채권(TLT)보다 물가연동채권(TIP)를 적용했을 때 CARG와 MDD 모두 더 좋았다. AOR은 같은 전략을 취하고 있음에도 결과가 상대적으로 나쁘게 나왔는데, 이는 AOR이 투자하고 있는 주식 비중이 미국, 선진국, 신흥국이 5:4:1의 비중을 가지기 때문인 것 같다. 이 기간에 미국 주식이 다른 선진국과 신흥국보다 더 좋았기 때문이다. 
 
-| 전략 | CARG  | MDD  | 백테스트 |
+| 전략 │ CARG  | MDD  | 백테스트 |
 |:---:|:-----:|:----:|:-----------:|
 | SPY+TIP  | 10.20% | -11.88% | [백테스트](https://www.portfoliovisualizer.com/backtest-portfolio?s=y&timePeriod=4&startYear=1985&firstMonth=1&endYear=2022&lastMonth=12&calendarAligned=true&includeYTD=false&initialAmount=10000&annualOperation=0&annualAdjustment=0&inflationAdjusted=true&annualPercentage=0.0&frequency=4&rebalanceType=1&absoluteDeviation=5.0&relativeDeviation=25.0&leverageType=0&leverageRatio=0.0&debtAmount=0&debtInterest=0.0&maintenanceMargin=25.0&leveragedBenchmark=false&reinvestDividends=true&showYield=false&showFactors=false&factorModel=3&benchmark=-1&benchmarkSymbol=AOR&portfolioNames=false&portfolioName1=Portfolio+1&portfolioName2=Portfolio+2&portfolioName3=Portfolio+3&symbol1=SPY&allocation1_1=60&allocation1_2=60&allocation1_3=60&symbol2=TIP&allocation2_1=40&symbol3=TLT&allocation3_2=40&symbol4=SHY&allocation4_3=40) |
 | SPY+TLT  | 10.01%  | -16.61% | 상동 |

@@ -1,0 +1,13 @@
+---
+layout: post
+title:  "전략ETF탐방 × 모멘텀전략 │ KODEX MSCI모멘텀"
+description: ""
+categories: ['전략ETF탐방']
+tags: [ETF, 퀀트, 모멘텀전략]
+meta:
+  ticker: ['275280']
+---
+
+## 오늘의 퀀트 전략 ETF
+
+{% include _proj/stETF.md tickers=page.meta.ticker %}

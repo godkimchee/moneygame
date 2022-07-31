@@ -1,0 +1,485 @@
+- TICKER: "174350"
+  NAME: "TIGER 로우볼"
+  URL: "https://www.tigeretf.com/ko/product/search/detail/index.do?ksdFund=KR7174350009&fundTypeCode=01000500"
+  KEYWORD: [저변동]
+  CAP: 193
+  IDX:
+    NAME: "FnGuide Low Vol"
+    LINK: "http://www.fnindex.co.kr/overview/detail/I/FI00.WLT.LVL"
+  INFO:
+    NAVER:
+      URL: "https://finance.naver.com/item/main.naver?code=174350"
+      DESC: "FnGuide Low Vol 지수는 유가증권시장 상장종목 시가총액 상위 200위 종목 중, 과거 5년간의 월간수익률을 기초로 산출된 변동성이 낮은 40종목을 변동성 역수 가중하여 지수를 구성"
+
+  
+- TICKER: "252730"
+  NAME: "KBSTAR 모멘텀로우볼"
+  URL: "http://www.kbstaretf.com/prod/finderDetail/4452"
+  KEYWORD: [저변동, 모멘텀]
+  CAP: 27
+  IDX:
+    NAME: "FnGuide 모멘텀&로우볼"
+    LINK: "http://www.fnindex.co.kr/overview/detail/I/FI00.WLT.MLV"
+  INFO:
+    NAVER:
+      URL: "https://finance.naver.com/item/main.naver?code=252730"
+      DESC: "FnGuide 모멘텀&로우볼 지수는 FnGuide가 산출하는 주가지수로, 유가증권 시장에 상장된 주식 중 우량한 종목을 선별하고, 선별된 종목 중 모멘텀지표가 높고 변동성이 낮은 종목들을 투자대상으로 선별하여 시가총액 가중방식으로 산출한 지수입니다."
+
+  
+- TICKER: "266550"
+  NAME: "ARIRANG 중형주저변동50"
+  URL: "http://www.arirangetf.com/html/etf/etf_prod.jsp?fund_cd=006304&prod_cd=STRATEGY"
+  KEYWORD: [저변동]
+  CAP: 31
+  IDX:
+    NAME: "FnGuide 중형저변동50"
+    LINK: "http://www.fnindex.co.kr/overview/detail/I/FI00.WLT.MCL"
+  INFO:
+    NAVER:
+      URL: "https://finance.naver.com/item/main.naver?code=266550"
+      DESC: "FnGuide 중형주저변동50 지수는 에프앤가이드가 산출하는 주가 지수로, KOSPI 상장기업 중 시가총액 100위~300위에 해당하는 종목 중에서 주가 변동성이 낮은 50종목에 투자하는 지수입니다. 구성종목 간 투자 비중은 단순 시가총액 방식이 아닌, 변동성과 유동성을 고려한 Tilted 동일가중 투자 방식을 사용합니다."
+
+  
+- TICKER: "322130"
+  NAME: "KINDEX 스마트로우볼"
+  URL: "http://www.kindexetf.com/fund/getFundInfo.etf?fundCD=9001R&leftMenuNo=2&tabMenuNo=1"
+  KEYWORD: [저변동]
+  CAP: 69
+  IDX:
+    NAME: "FnGuide 스마트 로우볼"
+    LINK: "http://www.fnindex.co.kr/overview/detail/I/FI00.WLT.SMO"
+  INFO:
+    NAVER:
+      URL: "https://finance.naver.com/item/main.naver?code=322130"
+      DESC: "Fnguide 스마트 로우볼 지수는 코스피 유동시총 상위200종목 중 시장대비 상대적으로 주가 변동성이 낮은종목으로 구성되었으며 2011년 06월 13일을 1000pt 기준으로 2018년 12월 10일부터 발표한 지수입니다."
+
+- TICKER: "333940"
+  NAME: "ARIRANG KS로우볼가중TR"
+  URL: "http://www.arirangetf.com/html/etf/etf_prod_list.jsp"
+  KEYWORD: [저변동]
+  CAP: 54
+  IDX:
+    NAME: "FnGuide KS 로우볼 가중 지수 (TR)"
+    LINK: "http://www.fnindex.co.kr/overview/detail/I/FI00.WLT.HTL"
+  INFO:
+    NAVER:
+      URL: "https://finance.naver.com/item/main.naver?code=333940"
+      DESC: "없음"
+      
+      
+- TICKER: "215620"
+  NAME: "HK S&P코리아로우볼"
+  URL: ""
+  KEYWORD: [저변동]
+  CAP: 52
+  IDX:
+    NAME: "S&P Korea Low Volatility Index"
+    LINK: "https://www.spglobal.com/spdji/en/indices/strategy/sp-korea-low-volatility-index/#overview"
+  INFO:
+    NAVER:
+      URL: "https://finance.naver.com/item/main.naver?code=215620"
+      DESC: "S&P Korea Broad Market Index 구성 종목 중 60일 평균 거래대금 10억원 미만 제외, 코스닥 제외, 우선주 제외, 연간거래일수 미달종목 제외 후 1년간 일간수익률 변동성이 낮은 50종목을 선정하여 1년간의 일간수익률을 기초로 산출된 변동성 기준으로 변동성 역수 비중으로 가중하여 산출합니다."
+
+- TICKER: "391680"
+  NAME: "HK 하이볼액티브"
+  URL: ""
+  KEYWORD: [저변동, 고변동]
+  CAP: 46
+  IDX:
+    NAME: "KRX 코스피 200"
+    LINK: "http://data.krx.co.kr/inc/lib/pdfjs/web/viewer.html?file=%2Fcomm%2FfileDn%2FGenerateHp%2FrequestPdfPreview.cmd%3Fcode%3Dvq9qDimeCH4Y27KjDu68kKAFb824fgTO3DOz42bjNJEnvDSFWDSs1yPHQLtCwk5nQxggBzRiRQzqliyrxrTnHUx9pxLJtHd7R7XmopTMKuW8mOO4oH3iVBtiG9RLn%2FHan938F883%2F6xv7P01nPC2fbdrm9LeC5653K1zqREOjrdkdSXMz%2BYce%2F84E0mQbBUgFj7oPMX3e0k%2FfkTraCdGrEJ4UDCU5QuWh%2BPA4mueuNAJiVItoriY86Nhqlmis65r"
+  INFO:
+    NAVER:
+      URL: "https://finance.naver.com/item/main.naver?code=391680"
+      DESC: "국내 거래소에 상장된 주식에 투자신탁 자산총액의 60%이상을 투자하며, KOSPI200지수 내 하이볼 포트폴리오에 70% 수준으로 투자하고, 흥국자산운용 내부 리서치에 의해 선정된 액티브 투자종목에 30% 수준으로 투자할 계획입니다."
+
+- TICKER: "223190"
+  NAME: "KODEX 200가치저변동"
+  URL: "https://www.kodex.com/product_view.do?fId=2ETF51"
+  KEYWORD: [저변동]
+  CAP: 131
+  IDX:
+    NAME: "KRX 코스피 200 가치저변동성"
+    LINK: "http://data.krx.co.kr/inc/lib/pdfjs/web/viewer.html?file=%2Fcomm%2FfileDn%2FGenerateHp%2FrequestPdfPreview.cmd%3Fcode%3Dvq9qDimeCH4Y27KjDu68kLj%2BpJgA%2B5w%2Bfzt5fHofVu8Hj13kGKtM14Zt9Wg%2BYlCd7SEhpzNpOWb%2FZ8XWzju9efJoRksKl4dmCN7q9QQl7Pe6G8azK0nDo2OTn0Bjw4Ssm51J4gBjvbmP8pwOPla66NJr6TeqodQvvzQPa0lu6IMrZCer%2F7ncTeViI%2FfTY6dy8Qg6RppnEC1JiD3IH%2FRi4q7rwjXINj4o%2BF2jV2O1dH0%3D"
+  INFO:
+    NAVER:
+      URL: "https://finance.naver.com/item/main.naver?code=223190"
+      DESC: "없음"
+
+  
+- TICKER: "279540"
+  NAME: "KODEX 최소변동성"
+  URL: "https://www.kodex.com/product_view.do?fId=2ETF97"
+  KEYWORD: [저변동]
+  CAP: 104
+  IDX:
+    NAME: "KRX 최소변동성 지수"
+    LINK: "http://data.krx.co.kr/inc/lib/pdfjs/web/viewer.html?file=%2Fcomm%2FfileDn%2FGenerateHp%2FrequestPdfPreview.cmd%3Fcode%3Dvq9qDimeCH4Y27KjDu68kDkl%2F%2BTK5NZQZ%2FIRn8zroAlT2DbBCT4glmbJifKodJFeF1HfIoSJgy4DeHVfFijszsbeXmzsAW5bkSSGoH9kGJt%2B9%2BKl7A6fTbOxYvUHOwAAUkLu1CHiEv%2FJvTxTViCZShai1bY6fe%2FoEIE0Wi319OIBaiX7apZNKxp3JwmmMG1%2B7nCBkjh7YcSH%2BMa877t7aQFaTyAMJPk6s%2BO4MPKaIOU%3D"
+  INFO:
+    NAVER:
+      URL: "https://finance.naver.com/item/main.naver?code=279540"
+      DESC: "없음"
+
+  
+- TICKER: "147970"
+  NAME: "TIGER 모멘텀"
+  URL: "https://www.tigeretf.com/ko/product/search/detail/index.do?ksdFund=KR7147970008"
+  KEYWORD: [모멘텀]
+  CAP: 56
+  IDX:
+    NAME: "FnGuide 모멘텀"
+    LINK: "http://www.fnindex.co.kr/overview/detail/I/FI00.WLT.MMT"
+  INFO:
+    NAVER:
+      URL: "https://finance.naver.com/item/main.naver?code=147970"
+      DESC: "에프앤가이드 모멘텀 지수는 유가증권시장에 상장된 시가총액 상위 500위이내/20일평균거래대금 10억원이상/상장이후 13개월 지난 종목 중에서, Price Momentum / Earnings Revision / Volume Momentum이 높은 종목으로 최종구성종목을 선정하며 동일가중방식으로 산출. Price Momentum : 최근 1개월을 제외한 최근 12개월 수익률. Earnings Revision : 애널리스트 EPS 추정 상향 개수를 사용(최근 3개월 EPS 추정치와 최근 1개월 EPS 추정치의 단순 평균). Volume Momentum : 20일 평균거래대금 대비 5일 평균거래대금 증가율"
+
+- TICKER: "244620"
+  NAME: "KODEX 모멘텀Plus"
+  URL: "https://www.kodex.com/product_view.do?fId=2ETF60"
+  KEYWORD: [모멘텀]
+  CAP: 85
+  IDX:
+    NAME: "FnGuide 모멘텀 Plus"
+    LINK: "http://www.fnindex.co.kr/overview/detail/I/FI00.WLT.MPS"
+  INFO:
+    NAVER:
+      URL: "https://finance.naver.com/item/main.naver?code=244620"
+      DESC: "수익률 및 변동성을 고려한 모멘텀지표(핵심지표)와 영업과 관련된 수익성지표인 영업효율성 지표(보조지표)를 기준으로 상위의 종목들을 편입하는 지수"
+
+  
+- TICKER: "252720"
+  NAME: "KBSTAR 모멘텀밸류"
+  URL: "http://www.kbstaretf.com/prod/finderDetail/4453"
+  KEYWORD: [모멘텀, 벨류]
+  CAP: 12
+  IDX:
+    NAME: "FnGuide 모멘텀&밸류"
+    LINK: "http://www.fnindex.co.kr/overview/detail/I/FI00.WLT.MMV"
+  INFO:
+    NAVER:
+      URL: "https://finance.naver.com/item/main.naver?code=252720"
+      DESC: "FnGuide 모멘텀&밸류 지수는 FnGuide가 산출하는 주가지수로, 유가증권 시장에 상장된 주식 중 우량한 종목을 선별하고, 선별된 종목 중 모멘텀지표와 가치지표가 우수한 종목들을 투자대상으로 선별하여 시가총액 가중방식으로 산출한 지수입니다."
+
+  
+- TICKER: "272220"
+  NAME: "KINDEX 스마트모멘텀"
+  URL: "http://www.kindexetf.com/fund/getFundInfo.etf?fundCD=9001F&leftMenuNo=2&tabMenuNo=1"
+  KEYWORD: [모멘텀]
+  CAP: 55
+  IDX:
+    NAME: "FnGuide 스마트 모멘텀"
+    LINK: "http://www.fnindex.co.kr/overview/detail/I/FI00.WLT.SMM"
+  INFO:
+    NAVER:
+      URL: "https://finance.naver.com/item/main.naver?code=272220"
+      DESC: "개별종목의 유니버스대비 모멘텀과 업종군대비 모멘텀을 각각 계산하여 선정된 종목으로 구성"
+
+  
+- TICKER: "275280"
+  NAME: "KODEX MSCI모멘텀"
+  URL: "https://www.kodex.com/product_view.do?fId=2ETF85"
+  KEYWORD: [모멘텀]
+  CAP: 61
+  IDX:
+    NAME: "MSCI Korea IMI Momentum Capped Index"
+    LINK: "https://www.msci.com/documents/10199/95c1c3cf-2c82-484b-8aea-c440beb2df3f"
+  INFO:
+    NAVER:
+      URL: "https://finance.naver.com/item/main.naver?code=275280"
+      DESC: "없음"
+
+  
+- TICKER: "333960"
+  NAME: "ARIRANG KS모멘텀가중TR"
+  URL: "http://www.arirangetf.com/html/etf/etf_prod.jsp"
+  KEYWORD: [모멘텀]
+  CAP: 39
+  IDX:
+    NAME: "FnGuide KS 모멘텀 가중 지수 (TR)"
+    LINK: "http://www.fnindex.co.kr/overview/detail/I/FI00.WLT.HTM"
+  INFO:
+    NAVER:
+      URL: "https://finance.naver.com/item/main.naver?code=333960"
+      DESC: "없음"
+
+  
+- TICKER: "143460"
+  NAME: "KINDEX 밸류대형"
+  URL: "http://www.kindexetf.com/fund/getFundInfo.etf?fundCD=9000G&leftMenuNo=2&tabMenuNo=1"
+  KEYWORD: [벨류]
+  CAP: 91
+  IDX:
+    NAME: "FnGuide-RAFI Korea 대형"
+    LINK: "http://www.fnindex.co.kr/overview/detail/I/FI00.WLT.LAR"
+  INFO:
+    NAVER:
+      URL: "https://finance.naver.com/item/main.naver?code=143460"
+      DESC: "FnGuide가 산출하는 FnGuide-RAFI Korea 대형 지수는 정기변경일 기준으로 유가증권시장에 상장된 기업 중 펀더멘탈 (순자산, 매출액, 현금흐름, 배당금 등) 비중 상위 100종목으로 지수 구성종목이 선정됩니다."
+
+  
+- TICKER: "234310"
+  NAME: "KBSTAR V&S셀렉트밸류"
+  URL: "http://www.kbstaretf.com/prod/finderDetail/4445"
+  KEYWORD: [벨류]
+  CAP: 63
+  IDX:
+    NAME: "FnGuide 셀렉트밸류"
+    LINK: "http://www.fnindex.co.kr/overview/detail/I/FI00.WLT.SVL"
+  INFO:
+    NAVER:
+      URL: "https://finance.naver.com/item/main.naver?code=234310"
+      DESC: "FnGuide 셀렉트밸류 지수는 FnGuide가 산출하는 주가 지수로, 코스피와 코스닥 상장 기업 중 내재가치 및 비즈니스가치가 우수한 기업들을 선별하여 동일가중방식(Equal Weight)에 종목별 등급차등을 적용하여 산출합니다"
+
+  
+- TICKER: "244670"
+  NAME: "KODEX 밸류Plus"
+  URL: "https://www.kodex.com/product_view.do?fId=2ETF62"
+  KEYWORD: [벨류]
+  CAP: 115
+  IDX:
+    NAME: "FnGuide 밸류 Plus"
+    LINK: "http://www.fnindex.co.kr/overview/detail/I/FI00.WLT.VPS"
+  INFO:
+    NAVER:
+      URL: "https://finance.naver.com/item/main.naver?code=244670"
+      DESC: "PBR과 같은 가치지표(핵심지표)와 영업과 관련된 수익성지표인 영업효율성지표(보조지표)를 기준으로 상위의 종목들을 편입하는 지수"
+
+  
+- TICKER: "140580"
+  NAME: "KBSTAR 우량업종"
+  URL: "http://www.kbstaretf.com/prod/finderDetail/4434"
+  KEYWORD: [퀄리티]
+  CAP: 52
+  IDX:
+    NAME: "MKF 우량업종대표주"
+    LINK: "http://www.fnindex.co.kr/overview/detail/I/FI00.WLT.WIN"
+  INFO:
+    NAVER:
+      URL: "https://finance.naver.com/item/main.naver?code=140580"
+      DESC: "MKF 우량업종대표주 지수는 Fundamental Screening을 통해 우량업종을 먼저 선정하고 선정된 업종을 대표하는 종목들로 구성된 지수로서, 유가증권시장의 유동시가총액 상위 200 종목 내에 FICS(FnGuide Industry Classfication Standard)분류기준 업종중 재무스코어가 높은 상위 10개 업종을 선별하고 업종당 최대 5종목을 대상으로 동일가중방식으로 산출합니다. 지수에 채용하는 주식은 시가총액 1조원 이상에 해당하는 종목 중 업종당 최대 5종목을 선정하고 구성종목이 30종목 미만일 경우 업종당 최대 5종목을 넘지 않는 한도에서 시가총액 순으로 30종목을 선정하며, 주식수는 최소 30종목, 최대 50종목으로 구성합니다."
+
+- TICKER: "145850"
+  NAME: "TREX 펀더멘탈 200"
+  URL: ""
+  KEYWORD: [퀄리티]
+  CAP: 87
+  IDX:
+    NAME: "FnGuide-RAFI Korea200"
+    LINK: "http://www.fnindex.co.kr/overview/detail/I/FI00.WLT.200"
+  INFO:
+    NAVER:
+      URL: "https://finance.naver.com/item/main.naver?code=145850"
+      DESC: "해당 기업의 순자산과 매출액, 현금흐름, 배당금총액 등의 지표를 기준으로 하는 펀더멘탈 비중이 높은 순서대로 상위 200종목으로 구성. 저렴한 보수로 대형주 및 중형 가치주에 투자하는 것과 유사한 수익률을 기대할 수 있음."
+
+- TICKER: "227570"
+  NAME: "TIGER 우량가치"
+  URL: "https://www.tigeretf.com/ko/product/search/detail/index.do?ksdFund=KR7227570009"
+  KEYWORD: [퀄리티, 밸류]
+  CAP: 127
+  IDX:
+    NAME: "FnGuide 퀄리티밸류"
+    LINK: "http://www.fnindex.co.kr/overview/detail/I/FI00.WLT.QVA"
+  INFO:
+    NAVER:
+      URL: "https://finance.naver.com/item/main.naver?code=227570"
+      DESC: "“FnGuide 퀄리티 밸류 지수”는 유가증권시장에 상장된 시가총액 상위 300위 이내 종목 중, 4개의 밸류 팩터 및 4개의 퀄리티 팩터 값을 더하여 산출한 값 기준으로 상위 50종목으로 지수를 구성하며 연 2회 정기변경을 실시"
+
+  
+- TICKER: "244660"
+  NAME: "KODEX 퀄리티Plus"
+  URL: "https://www.kodex.com/product_view.do?fId=2ETF61"
+  KEYWORD: [퀄리티]
+  CAP: 42
+  IDX:
+    NAME: "FnGuide 퀄리티 Plus"
+    LINK: "http://www.fnindex.co.kr/overview/detail/I/FI00.WLT.QPS"
+  INFO:
+    NAVER:
+      URL: "https://finance.naver.com/item/main.naver?code=244660"
+      DESC: "영업과 관련된 수익성지표인 영업효율성지표(핵심지표)와 PBR과 같은 가치지표(보조지표)를 기준으로 상위의 종목들을 편입하는 지수"
+
+  
+- TICKER: "275300"
+  NAME: "KODEX MSCI퀄리티"
+  URL: "https://www.kodex.com/product_view.do?fId=2ETF86"
+  KEYWORD: [퀄리티]
+  CAP: 49
+  IDX:
+    NAME: "MSCI Korea IMI Quality Capped Index"
+    LINK: "https://www.msci.com/documents/10199/48d86724-e062-33fd-28c4-3a3773a82efc"
+  INFO:
+    NAVER:
+      URL: "https://finance.naver.com/item/main.naver?code=275300"
+      DESC: "없음"
+
+  
+- TICKER: "322120"
+  NAME: "KINDEX 스마트퀄리티"
+  URL: "http://www.kindexetf.com/fund/getFundInfo.etf?fundCD=9001Q&tabMenuNo=1&leftMenuNo=2"
+  KEYWORD: [퀄리티]
+  CAP: 58
+  IDX:
+    NAME: "FnGuide 스마트 퀄리티"
+    LINK: "http://www.fnindex.co.kr/overview/detail/I/FI00.WLT.SMQ"
+  INFO:
+    NAVER:
+      URL: "https://finance.naver.com/item/main.naver?code=322120"
+      DESC: "Fnguide 스마트 퀄리티 지수는 코스피 유동시총 상위200종목 중 안정적인 재무구조와 수익력을 보유한 종목으로 구성"
+
+  
+- TICKER: "333980"
+  NAME: "ARIRANG KS퀄리티가중TR"
+  URL: "http://www.arirangetf.com/html/etf/etf_prod.jsp"
+  KEYWORD: [퀄리티]
+  CAP: 39
+  IDX:
+    NAME: "FnGuide KS 퀄리티 가중 지수 (TR)"
+    LINK: "http://www.fnindex.co.kr/overview/detail/I/FI00.WLT.HTQ"
+  INFO:
+    NAVER:
+      URL: "https://finance.naver.com/item/main.naver?code=333980"
+      DESC: "없음"
+
+  
+- TICKER: "226980"
+  NAME: "KODEX 200 중소형"
+  URL: "https://www.kodex.com/product_view.do?fId=2ETF53"
+  KEYWORD: [중소형]
+  CAP: 58
+  IDX:
+    NAME: "KRX 코스피 200 중소형 지수"
+    LINK: "http://data.krx.co.kr/inc/lib/pdfjs/web/viewer.html?file=%2Fcomm%2FfileDn%2FGenerateHp%2FrequestPdfPreview.cmd%3Fcode%3Dvq9qDimeCH4Y27KjDu68kKL8eVY1LGMraNvjPR3M1u9HzyY8qh0EKleJ9VCJGto4JPnXSqaokwh6WKio5PolAuGipMoNHVjkS8IZH0lyxqqsD%2FfGb%2FCGvGBJ7Oh0HYRuYkxEEcgc7Om%2Bnzk0qi1VoZyf4fPJIA0%2FyppT%2F6V4iCmnKUorIcbIQrjyONQSkueGrGBGtuO2ik9EjGzccRQmL8287J0Zfz8PJWMKFj8kbvo%3D"
+  INFO:
+    NAVER:
+      URL: "https://finance.naver.com/item/main.naver?code=226980"
+      DESC: "코스피200 중소형 지수는 코스피 200 구성종목 중 시가총액 상위 100종목을 제외한 나머지 종목을 구성종목으로 하여 개별 종목의 유동주식수를 감안한 유동시가총액 가중방식으로 산출한 지수"
+
+  
+- TICKER: "277650"
+  NAME: "TIGER 코스피중형주"
+  URL: "https://www.tigeretf.com/ko/product/search/detail/index.do?ksdFund=KR7277650008"
+  KEYWORD: [중소형]
+  CAP: 57
+  IDX:
+    NAME: "KRX 코스피 중형주 지수"
+    LINK: "http://data.krx.co.kr/inc/lib/pdfjs/web/viewer.html?file=%2Fcomm%2FfileDn%2FGenerateHp%2FrequestPdfPreview.cmd%3Fcode%3Dvq9qDimeCH4Y27KjDu68kLhZM3Ftn%2B%2FUnCZWh3bAImsnGmOP%2BA%2FgDafN9mwSEVz%2BA9%2F2aZaZWkjL1T%2BjRJuAXmNxW6eVPJbPH6f3%2Bh1XRfk4QmVWI8fm3YVI5dEGHYs7MQ%2BKOLjwVjzDoS9qffPYIL0PaqRjcdeT4MvOvXz84ewKoAC1SZl1SNSNofmSh28mpmtLW96aznoLql36WweLINEH6nVCrM1Qfs8Gil7IcLNB5NdB0TS2O42u7jp9CX2G"
+  INFO:
+    NAVER:
+      URL: "https://finance.naver.com/item/main.naver?code=277650"
+      DESC: "유가증권시장 상장종목 중 시가총액 101위부터 300위까지에 해당하는 종목을 시가총액 가중박식으로 산출하는 지수"
+
+  
+- TICKER: "301440"
+  NAME: "ARIRANG 코스피중형주"
+  URL: "http://www.arirangetf.com/html/etf/etf_prod.jsp?fund_cd=006320&prod_cd=LEADER"
+  KEYWORD: [중소형]
+  CAP: 42
+  IDX:
+    NAME: "KRX 코스피 중형주 지수"
+    LINK: "http://data.krx.co.kr/inc/lib/pdfjs/web/viewer.html?file=%2Fcomm%2FfileDn%2FGenerateHp%2FrequestPdfPreview.cmd%3Fcode%3Dvq9qDimeCH4Y27KjDu68kLhZM3Ftn%2B%2FUnCZWh3bAImsnGmOP%2BA%2FgDafN9mwSEVz%2BA9%2F2aZaZWkjL1T%2BjRJuAXmNxW6eVPJbPH6f3%2Bh1XRfk4QmVWI8fm3YVI5dEGHYs7MQ%2BKOLjwVjzDoS9qffPYIL0PaqRjcdeT4MvOvXz84ewKoAC1SZl1SNSNofmSh28mpmtLW96aznoLql36WweLINEH6nVCrM1Qfs8Gil7IcLNB5NdB0TS2O42u7jp9CX2G"
+  INFO:
+    NAVER:
+      URL: "https://finance.naver.com/item/main.naver?code=301440"
+      DESC: "KOSPI Mid Cap 지수는 한국거래소가 산출하는 주가 지수로, 유가증권시장 상장종목 중 시가총액 101위부터 300위 까지 200개 종목으로 산출하는 지수"
+
+  
+- TICKER: "331910"
+  NAME: "KOSEF Fn중소형"
+  URL: "http://www.kosef.co.kr/product/detail.jsp?cd=331910"
+  KEYWORD: [중소형]
+  CAP: 137
+  IDX:
+    NAME: "FnGuide-키움 스마트 중소형주 지수"
+    LINK: "http://www.fnindex.co.kr/overview/detail/I/FI00.WLT.KWS"
+  INFO:
+    NAVER:
+      URL: "https://finance.naver.com/item/main.naver?code=331910"
+      DESC: "유가증권시장 시가총액 상위 100종목을 제외한 코스피 중소형주 유니버스 내 100종목으로 구성됩니다. 사전 정의된 재무요건 8개의 합산점수 상위 종목 순으로 편입종목을 선정"
+
+  
+- TICKER: "333950"
+  NAME: "ARIRANG KS로우사이즈가중TR"
+  URL: "http://www.arirangetf.com/html/etf/etf_prod.jsp"
+  KEYWORD: [중소형]
+  CAP: 65
+  IDX:
+    NAME: "FnGuide KS 로우사이즈 가중 지수(TR)"
+    LINK: "http://www.fnindex.co.kr/overview/detail/I/FI00.WLT.HTS"
+  INFO:
+    NAVER:
+      URL: "https://finance.naver.com/item/main.naver?code=333950"
+      DESC: "없음"
+
+  
+- TICKER: "281990"
+  NAME: "KBSTAR 중소형고배당"
+  URL: "http://www.kbstaretf.com/prod/finderDetail/4466"
+  KEYWORD: [중소형]
+  CAP: 43
+  IDX:
+    NAME: "FnGuide 중소형 고배당포커스"
+    LINK: "http://www.fnindex.co.kr/overview/detail/I/FI00.WLT.MSD"
+  INFO:
+    NAVER:
+      URL: "https://finance.naver.com/item/main.naver?code=281990"
+      DESC: "FnGuide 중소형고배당포커스지수는 FnGuide가 산출하는 주가지수로, MKF중소형 구성종목과 코스닥 유동시가총액 상위 150종목 중 현금배당수익률 상위 80위 종목을 현금배당총액가중방식으로 산출한 지수"
+
+  
+- TICKER: "337120"
+  NAME: "KODEX Fn멀티팩터"
+  URL: "http://www.kodex.com/product_view.do?fId=2ETFC4"
+  KEYWORD: [기타, 멀티팩터]
+  CAP: 70
+  IDX:
+    NAME: "FnGuide 멀티팩터"
+    LINK: "http://www.fnindex.co.kr/overview/detail/I/FI00.WLT.SMF"
+  INFO:
+    NAVER:
+      URL: "https://finance.naver.com/item/main.naver?code=337120"
+      DESC: "없음"
+
+  
+- TICKER: "238670"
+  NAME: "ARIRANG 스마트베타Quality채권혼합"
+  URL: "http://www.arirangetf.com/html/etf/etf_prod.jsp"
+  KEYWORD: [기타, 베타]
+  CAP: 63
+  IDX:
+    NAME: "WISE-KAP 스마트베타 Quality 채권혼합 지수"
+    LINK: "https://www.wiseindex.com/Index/Index?WCI0101"
+  INFO:
+    NAVER:
+      URL: "https://finance.naver.com/item/main.naver?code=238670"
+      DESC: "WISE-KAP 스마트베타 Quality 채권혼합 지수는 와이즈에프엔이 산출하는 주가지수로, 주가(Wise스마트베타Quality index)30%, 채권(KAP Bullet Index) 70%에 투자하고 매일 주식과 채권부분의 비중을 조정하는 지수입니다."
+
+  
+- TICKER: "322150"
+  NAME: "KINDEX 스마트하이베타"
+  URL: "http://www.kindexetf.com/fund/getFundInfo.etf?fundCD=9001S&leftMenuNo=2&tabMenuNo=1"
+  KEYWORD: [기타, 베타]
+  CAP: 72
+  IDX:
+    NAME: "FnGuide 스마트 하이베타"
+    LINK: "http://www.fnindex.co.kr/overview/detail/I/FI00.WLT.SMH"
+  INFO:
+    NAVER:
+      URL: "https://finance.naver.com/item/main.naver?code=322150"
+      DESC: "Fnguide 스마트 하이베타 지수는 주식시장의 움직임에 대한 민감도를 나타내는 지표인 베타(β)를 활용, 코스피 유동시총 상위200종목 중 시장대비 베타가 높은 종목으로 구성"
+
+  
+- TICKER: "104520"
+  NAME: "KOSEF 블루칩"
+  URL: "http://www.kosef.co.kr/product/detail.jsp?cd=104520"
+  KEYWORD: [기타, 블루칩]
+  CAP: 101
+  IDX:
+    NAME: "MKF 블루칩"
+    LINK: "http://www.fnindex.co.kr/overview/detail/I/FI00.EWI.001"
+  INFO:
+    NAVER:
+      URL: "https://finance.naver.com/item/main.naver?code=104520"
+      DESC: "MKF 블루칩 지수는 FnGuide의 MKF 대형주 구성종목 중 3개월 일평균 거래대금이 30억원 이상이고, FnGuide의 산업분류 체계인 Industry Group 내의 연평균 시가총액 상위 2 종목을 선정하여 동일가중방식으로 구성한 지수"
+
+  
+

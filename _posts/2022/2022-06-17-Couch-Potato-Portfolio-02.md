@@ -16,7 +16,7 @@ CP에 조금씩 변형을 주면 우리가 알고 있는 유명한 정적자산�
 
 먼저 주식과 채권의 일부를 다른 자산으로 꾸며보면 어떨까. 데이터 한계로 백테스트 기간이 조금 짧기는 하지만 인상적인 결과가 나타났다.(2011-2022) 약간의 변화를 주었을 뿐이지만 MDD가 크게 하락하지 않으면서 CARG에 유의미한 변화가 있었다. 특히 SPY 40%, TIP 40%, QQQ 10%, SCHD 10% 조합이 눈에 띈다. 
 
-| 전략 | CARG  | MDD  | 백테스트 |
+| 전략 │ CARG  | MDD  | 백테스트 |
 |:---:|:-----:|:----:|:-----------:|
 | SPY+TIP  | 8.40% | -10.02% | [백테스트](https://www.portfoliovisualizer.com/backtest-portfolio?s=y&timePeriod=4&startYear=1985&firstMonth=1&endYear=2022&lastMonth=12&calendarAligned=true&includeYTD=false&initialAmount=10000&annualOperation=0&annualAdjustment=0&inflationAdjusted=true&annualPercentage=0.0&frequency=4&rebalanceType=1&absoluteDeviation=5.0&relativeDeviation=25.0&leverageType=0&leverageRatio=0.0&debtAmount=0&debtInterest=0.0&maintenanceMargin=25.0&leveragedBenchmark=false&reinvestDividends=true&showYield=false&showFactors=false&factorModel=3&benchmark=-1&benchmarkSymbol=SPY&portfolioNames=false&portfolioName1=Portfolio+1&portfolioName2=Portfolio+2&portfolioName3=Portfolio+3&symbol1=SPY&allocation1_1=50&allocation1_2=40&allocation1_3=40&symbol2=TIP&allocation2_1=50&allocation2_2=40&allocation2_3=40&symbol3=QQQ&allocation3_2=10&allocation3_3=10&symbol4=VNQ&allocation4_2=10&symbol5=SCHD&allocation5_3=10&symbol6=GLD) |
 | QQQ10+VNQ10  | 9.68% | -11.82% | 상동 |
