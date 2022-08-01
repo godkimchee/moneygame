@@ -6,3 +6,5 @@
 # including Future Posts & Drafts
 bundle exe jekyll serve --future --drafts
 ```
+
+https://www.tablesgenerator.com/markdown_tables
